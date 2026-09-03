@@ -1,0 +1,21 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio and Rider
+.vs/
+.idea/
+*.user
+*.suo
+
+# Test results and coverage
+TestResults/
+coverage/
+
+# Local development settings and secrets
+appsettings.Local.json
+appsettings.*.Local.json
+
+# OS files
+.DS_Store
+Thumbs.db
